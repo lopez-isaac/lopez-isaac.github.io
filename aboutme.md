@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Isaac lopez and I am currently a data scientist in training at Lambda School. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My main application for data science is using it in the Esports field. Ive always liked video games and never liked watching sports. That all change when Esports came into existence. I finally understand why people love watching other people play. Like those who want to work in the traditional sports industry I too would enjoy having some kind of involvent in Esports especialy now since its new and still has plenty of room for growth as a market.
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.

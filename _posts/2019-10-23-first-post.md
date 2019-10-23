@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Gun regulation debates need to start with handguns
+title: Gun regulation debates need to start with handguns
 
 ---
 
